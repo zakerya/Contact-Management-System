@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Free-yellow?style=for-the-badge)
 
-### A **simple yet powerful** C program to **store, search, edit, and delete** contacts, all from your terminal.
+A **simple yet powerful** C program to **store, search, edit, and delete** contacts, all from your terminal.
 
 ---
 
