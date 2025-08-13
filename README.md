@@ -10,11 +10,13 @@ A **simple yet powerful** C program to **store, search, edit, and delete** conta
 
 ## ✨ Features
 
-- Add new contacts
-- Search contacts
-- Delete contacts
-- Edit existing info
-- Persistent storage
+- **Add New Contacts** - Store names, phones, emails
+- **Instant Search** - Find contacts by any field
+- **Edit Records** - Modify existing contact details
+- **Delete Contacts** - Remove entries permanently
+- **Persistent Storage** - Automatically saves to `contacts.txt`
+- **Terminal-Based** - No GUI dependencies
+- **Lightweight** - Under 200 lines of C code
 
 ---
 
