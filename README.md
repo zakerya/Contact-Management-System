@@ -10,13 +10,11 @@
 
 ## ✨ Features
 
-<p align="center">
-  ➕ <b>Add new contacts</b>   ✅<br>
-  🔍 <b>Search contacts</b>   ✅<br>
-  🗑 <b>Delete contacts</b>   ✅<br>
-  ✏ <b>Edit existing info</b>   ✅<br>
-  💾 <b>Persistent storage</b>   ✅
-</p>
+- Add new contacts
+- Search contacts
+- Delete contacts
+- Edit existing info
+- Persistent storage
 
 ---
 
